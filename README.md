@@ -14,5 +14,5 @@ tambien estan al maximo en mi caso 18,5v.
 
 Usando estos integrados no debemos superar los 20V, no llegue a probar esto, esta circuiteria y soft es un prototipo de prueba para este display en particular, otros modelos deberan ser
 ensayados con otros tipos de circuitos a medida.
-La tension de funcionamiento ideal seria un poco mas elevada
+La tension de funcionamiento ideal seria un poco mas elevada 25-35V el problema es que habria que usar un conjunto de transistores y resistencias por pin de anodo y grilla ya que los CMOS se quemarian, multiplicando la electronica demasiado, todo esto para obtener un display que podria ser reemplazado tranquilamente por uno alfanumerico de 2x16 caracterers 
 
