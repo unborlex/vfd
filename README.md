@@ -1,3 +1,5 @@
+![20250319_105201](https://github.com/user-attachments/assets/b0afb271-7d32-4733-bb12-3e1bf6b747bf)
+
 El soft esta generado para arduino, en un ESP32, hay dos funciones principales para escribir en el display solo numeros y una es para escribir 8 digitos mas uno de simbolos 
 y otra funcion donde se pueden escribir 4 digitos, en este caso se obtiene el doble de brillo ya que solo se multiplexa por 4.
 
@@ -13,3 +15,4 @@ tambien estan al maximo en mi caso 18,5v.
 Usando estos integrados no debemos superar los 20V, no llegue a probar esto, esta circuiteria y soft es un prototipo de prueba para este display en particular, otros modelos deberan ser
 ensayados con otros tipos de circuitos a medida.
 La tension de funcionamiento ideal seria un poco mas elevada
+
